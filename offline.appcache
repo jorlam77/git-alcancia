@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1604000226
+#1604088257
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -10,6 +10,7 @@ images/sprite4-sheet0.png
 images/sprite5-sheet0.png
 images/sprite6-sheet0.png
 images/sprite7-sheet0.png
+images/sprite8-sheet0.png
 media/presiona.ogg
 media/ganar.ogg
 icon-16.png
